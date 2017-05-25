@@ -1,0 +1,22 @@
+{
+  "name": "neutrino-preset-react-require",
+  "version": "1.0.0",
+  "description": "Inject React import when JSX is detected.",
+  "keywords": [
+    "neutrino",
+    "neutrino-preset",
+    "web",
+    "import",
+    "require",
+    "react"
+  ],
+  "dependencies": {
+    "babel-plugin-react-require": "^3.0.0",
+    "deepmerge": "^1.3.2"
+  },
+  "peerDependencies": {
+    "neutrino": "^5.0.0"
+  },
+  "files": ["index.js"],
+  "license": "MIT"
+}

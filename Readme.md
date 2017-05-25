@@ -18,7 +18,7 @@ Add it to your package.json:
     "use": [
       "neutrino-preset-react",
       "neutrino-preset-react-require"
-    }
+    ]
   }
 }
 ```
